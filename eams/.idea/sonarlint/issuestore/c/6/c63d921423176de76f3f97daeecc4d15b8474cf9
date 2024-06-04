@@ -1,0 +1,30 @@
+
+n	java:S117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı“8³ù¦¶1
+n	java:S117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı“8³ù¦¶1
+[
+java:S2130j"9Use "Integer.parseInt" for this string-to-int conversion.(Àò‡ïşÿÿÿÿ8³ù¦¶1
+s	java:S117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÒĞ—ıÿÿÿÿ8³ù¦¶1
+\
+java:S2130ˆ"9Use "Integer.parseInt" for this string-to-int conversion.(Àò‡ïşÿÿÿÿ8³ù¦¶1
+h
+java:S1192e"KDefine a constant instead of duplicating this literal "login_name" 4 times.(¨¨û8³ù¦¶1
+m	java:S117d"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı“8³ù¦¶1
+m	java:S117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨¨û8³ù¦¶1
+n	java:S117ƒ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨¨û8³ù¦¶1
+Z
+java:S2589L"8Remove this expression which always evaluates to "false"(±½‚ øÿÿÿÿ8³ù¦¶1
+U
+java:S2589O"8Remove this expression which always evaluates to "false"(×éÂø8³ù¦¶1
+F
+java:S1905J")Remove this unnecessary cast to "String".(µ™â8³ù¦¶1
+k
+java:S1192g"IDefine a constant instead of duplicating this literal "passWord" 4 times.(ÎğÌ‡úÿÿÿÿ8³ù¦¶1
+e
+java:S1192f"HDefine a constant instead of duplicating this literal "loginId" 4 times.(ä•×­8³ù¦¶1
+F
+java:S1905K")Remove this unnecessary cast to "String".(ãÉ°ù8³ù¦¶1
+{
+java:S2293V"YReplace the type specification in this constructor call with the diamond operator ("<>").(«‘ø£ûÿÿÿÿ8³ù¦¶1
+h
+java:S1192d"KDefine a constant instead of duplicating this literal "job_number" 4 times.(ı“8³ù¦¶1
+n	java:S117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨¨û8³ù¦¶1
